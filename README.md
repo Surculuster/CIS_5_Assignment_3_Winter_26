@@ -1,3 +1,6 @@
+Video Explanation:
+https://youtu.be/Oikf_pcXJfU
+
 # CIS_5 Assignment – Week 3 (Winter 2026)
 A C++ program that analyzes a pre-filled set of 30 student test scores using arrays and loops.
 
